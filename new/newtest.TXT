@@ -1,0 +1,2 @@
+this is a newtest file for txt.
+this txt is using for test
